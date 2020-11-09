@@ -27,7 +27,7 @@ msgstr ""
 
 #: share/applications/net.lutris.Lutris.desktop:5
 msgid "Open gaming platform"
-msgstr ""
+msgstr "Quelloffene Spieleplattform"
 
 #: share/applications/net.lutris.Lutris.desktop:7
 msgid "gaming;wine;emulator;"
@@ -39,19 +39,19 @@ msgstr ""
 
 #: share/metainfo/net.lutris.Lutris.metainfo.xml:11
 msgid "Play all your games by Lutris"
-msgstr ""
+msgstr "Spiele all deine Spiele mit Lutris"
 
 #: share/metainfo/net.lutris.Lutris.metainfo.xml:14
 msgid "Main window"
-msgstr ""
+msgstr "Hauptfenster"
 
 #: share/lutris/ui/about-dialog.ui:8 share/lutris/ui/lutris-window.ui:183
 msgid "About Lutris"
-msgstr ""
+msgstr "Über Lutris"
 
 #: share/lutris/ui/about-dialog.ui:18
 msgid "Open Source Gaming Platform"
-msgstr ""
+msgstr "quelloffene Spieleplattform"
 
 #: share/lutris/ui/about-dialog.ui:21
 msgid ""
@@ -71,39 +71,39 @@ msgstr ""
 
 #: share/lutris/ui/dialog-lutris-login.ui:8
 msgid "Connect to lutris.net"
-msgstr ""
+msgstr "Mit lutris.net verbinden"
 
 #: share/lutris/ui/dialog-lutris-login.ui:26
 msgid "Forgot password?"
-msgstr ""
+msgstr "Passwort vergessen?"
 
 #: share/lutris/ui/dialog-lutris-login.ui:43 lutris/gui/dialogs/issue.py:52
 #: lutris/gui/installerwindow.py:75
 msgid "C_ancel"
-msgstr ""
+msgstr "Abbrechen"
 
 #: share/lutris/ui/dialog-lutris-login.ui:57
 msgid "_Connect"
-msgstr ""
+msgstr "Verbinden"
 
 #: share/lutris/ui/dialog-lutris-login.ui:95
 msgid "Password"
-msgstr ""
+msgstr "Passwort"
 
 #: share/lutris/ui/dialog-lutris-login.ui:109
 msgid "Username"
-msgstr ""
+msgstr "Benutzername"
 
 #: share/lutris/ui/dialog-pga-sources.ui:34 lutris/gui/config/boxes.py:512
 #: lutris/gui/dialogs/__init__.py:133 lutris/gui/dialogs/__init__.py:159
 #: lutris/gui/dialogs/__init__.py:249 lutris/gui/dialogs/issue.py:74
 #: lutris/gui/widgets/common.py:99 lutris/gui/widgets/download_progress.py:45
 msgid "_Cancel"
-msgstr ""
+msgstr "Abbrechen"
 
 #: share/lutris/ui/dialog-pga-sources.ui:50
 msgid "Appl_y"
-msgstr ""
+msgstr "Anwenden"
 
 #: share/lutris/ui/dialog-pga-sources.ui:79
 msgid "<b>Personnal Game Archives sources</b>"
@@ -111,23 +111,23 @@ msgstr ""
 
 #: share/lutris/ui/dialog-pga-sources.ui:142 lutris/gui/config/boxes.py:514
 msgid "_Add"
-msgstr ""
+msgstr "Hinzufügen"
 
 #: share/lutris/ui/dialog-pga-sources.ui:158
 msgid "_Remove"
-msgstr ""
+msgstr "Entfernen"
 
 #: share/lutris/ui/log-window.ui:37
 msgid "Search..."
-msgstr ""
+msgstr "Suchen..."
 
 #: share/lutris/ui/lutris-window.ui:33
 msgid "_Installed Games Only"
-msgstr ""
+msgstr "Nur installierte Spiele"
 
 #: share/lutris/ui/lutris-window.ui:48
 msgid "Show _Hidden Games"
-msgstr ""
+msgstr "Verstecke Spiele anzeigen"
 
 #: share/lutris/ui/lutris-window.ui:62
 msgid "Use _Dark Theme"
@@ -139,7 +139,7 @@ msgstr ""
 
 #: share/lutris/ui/lutris-window.ui:102
 msgid "Preferences"
-msgstr ""
+msgstr "Einstellungen"
 
 #: share/lutris/ui/lutris-window.ui:116
 msgid "Manage runners"
@@ -151,7 +151,7 @@ msgstr ""
 
 #: share/lutris/ui/lutris-window.ui:155
 msgid "Lutris forums"
-msgstr ""
+msgstr "Lutris Forum"
 
 #: share/lutris/ui/lutris-window.ui:169
 msgid "Make a donation"
@@ -163,7 +163,7 @@ msgstr ""
 
 #: share/lutris/ui/lutris-window.ui:271
 msgid "Sort Ascending"
-msgstr ""
+msgstr "Aufsteigend sortieren"
 
 #: share/lutris/ui/lutris-window.ui:286 lutris/gui/config/common.py:149
 #: lutris/gui/views/list.py:44 lutris/gui/views/list.py:158
@@ -172,35 +172,35 @@ msgstr ""
 
 #: share/lutris/ui/lutris-window.ui:301 lutris/gui/views/list.py:45
 msgid "Year"
-msgstr ""
+msgstr "Jahr"
 
 #: share/lutris/ui/lutris-window.ui:316 lutris/gui/views/list.py:48
 msgid "Last Played"
-msgstr ""
+msgstr "Zuletzt gespielt"
 
 #: share/lutris/ui/lutris-window.ui:331 lutris/gui/views/list.py:50
 msgid "Installed At"
-msgstr ""
+msgstr "Installiert am"
 
 #: share/lutris/ui/lutris-window.ui:346 lutris/gui/views/list.py:52
 msgid "Play Time"
-msgstr ""
+msgstr "Spielzeit"
 
 #: share/lutris/ui/lutris-window.ui:378
 msgid "Add Game"
-msgstr ""
+msgstr "Spiel hinzufügen"
 
 #: share/lutris/ui/lutris-window.ui:404
 msgid "Search games"
-msgstr ""
+msgstr "Spiele suchen"
 
 #: share/lutris/ui/lutris-window.ui:423
 msgid "Toggle View"
-msgstr ""
+msgstr "Ansicht wechseln"
 
 #: share/lutris/ui/lutris-window.ui:470
 msgid "View Options"
-msgstr ""
+msgstr "Anzeigeoptionen"
 
 #: share/lutris/ui/lutris-window.ui:543
 msgid "Community Installers"
@@ -208,23 +208,23 @@ msgstr ""
 
 #: share/lutris/ui/lutris-window.ui:559
 msgid "Your Library"
-msgstr ""
+msgstr "Deine Bibliothek"
 
 #: share/lutris/ui/runner-entry.ui:33
 msgid "name"
-msgstr ""
+msgstr "Name"
 
 #: share/lutris/ui/runner-entry.ui:52
 msgid "description"
-msgstr ""
+msgstr "Beschreibung"
 
 #: share/lutris/ui/runner-entry.ui:69
 msgid "platforms"
-msgstr ""
+msgstr "Plattformen"
 
 #: share/lutris/ui/runner-entry.ui:104 lutris/gui/widgets/sidebar.py:184
 msgid "Manage Versions"
-msgstr ""
+msgstr "Versionen verwalten"
 
 #: share/lutris/ui/runner-entry.ui:127
 msgid "Install Runner"
@@ -240,19 +240,19 @@ msgstr ""
 
 #: share/lutris/ui/runner-remove-all-versions-dialog.ui:19
 msgid "Remove ALL versions?"
-msgstr ""
+msgstr "ALLE Versionen entferen?"
 
 #: share/lutris/ui/runner-remove-all-versions-dialog.ui:23
 #: share/lutris/ui/runner-remove-confirm-dialog.ui:23
 #: lutris/gui/config/common.py:368 lutris/gui/dialogs/uninstall_game.py:55
 msgid "Cancel"
-msgstr ""
+msgstr "Abbrechen"
 
 #: share/lutris/ui/runner-remove-all-versions-dialog.ui:36
 #: share/lutris/ui/runner-remove-confirm-dialog.ui:19
 #: share/lutris/ui/runner-remove-confirm-dialog.ui:36 lutris/game_actions.py:89
 msgid "Remove"
-msgstr ""
+msgstr "Entfernen"
 
 #: share/lutris/ui/runner-remove-all-versions-dialog.ui:59
 msgid ""
@@ -287,11 +287,11 @@ msgstr ""
 
 #: lutris/game_actions.py:58 lutris/gui/widgets/game_bar.py:169
 msgid "Play"
-msgstr ""
+msgstr "Spielen"
 
 #: lutris/game_actions.py:59 lutris/gui/widgets/game_bar.py:175
 msgid "Stop"
-msgstr ""
+msgstr "Stoppen"
 
 #: lutris/game_actions.py:60
 msgid "Show logs"
@@ -300,31 +300,31 @@ msgstr ""
 #: lutris/game_actions.py:61 lutris/gui/installer/script_box.py:58
 #: lutris/gui/widgets/game_bar.py:155 lutris/gui/widgets/game_bar.py:178
 msgid "Install"
-msgstr ""
+msgstr "Installieren"
 
 #: lutris/game_actions.py:62
 msgid "Add installed game"
-msgstr ""
+msgstr "Installiertes Spiel hinzufügen"
 
 #: lutris/game_actions.py:63 lutris/gui/widgets/sidebar.py:190
 msgid "Configure"
-msgstr ""
+msgstr "Konfigurieren"
 
 #: lutris/game_actions.py:64
 msgid "Add to favorites"
-msgstr ""
+msgstr "Zu Favoriten hinzufügen"
 
 #: lutris/game_actions.py:65
 msgid "Remove from favorites"
-msgstr ""
+msgstr "Von Favoriten entfernen"
 
 #: lutris/game_actions.py:66
 msgid "Execute script"
-msgstr ""
+msgstr "Skript ausführen"
 
 #: lutris/game_actions.py:67
 msgid "Browse files"
-msgstr ""
+msgstr "Dateien anzeigen"
 
 #: lutris/game_actions.py:70 lutris/gui/installerwindow.py:425
 msgid "Create desktop shortcut"
@@ -344,19 +344,19 @@ msgstr ""
 
 #: lutris/game_actions.py:88
 msgid "Install another version"
-msgstr ""
+msgstr "Eine weitere Version installieren"
 
 #: lutris/game_actions.py:90
 msgid "View on Lutris.net"
-msgstr ""
+msgstr "Auf Lutris.net anschauen"
 
 #: lutris/game_actions.py:91
 msgid "Hide game from library"
-msgstr ""
+msgstr "Spiel in Bibliothek verstecken"
 
 #: lutris/game_actions.py:92
 msgid "Unhide game from library"
-msgstr ""
+msgstr "Spiel in Bibliothek anzeigen"
 
 #: lutris/game_actions.py:161
 msgid "Log for {}"
@@ -364,7 +364,7 @@ msgstr ""
 
 #: lutris/game_actions.py:210
 msgid "This game has no installation directory"
-msgstr ""
+msgstr "Dieses Spiel hat keinen Installationsordner"
 
 #: lutris/game_actions.py:214
 #, python-format
@@ -3999,12 +3999,12 @@ msgstr ""
 #: lutris/util/wine/wine.py:352 lutris/util/wine/wine.py:390
 #: lutris/util/wine/wine.py:410
 msgid "Launch anyway and do not show this message again."
-msgstr ""
+msgstr "Trotzdem starten und diese Nachricht nicht mehr anzeigen."
 
 #: lutris/util/wine/wine.py:354 lutris/util/wine/wine.py:392
 #: lutris/util/wine/wine.py:412
 msgid "Enable anyway and do not show this message again."
-msgstr ""
+msgstr "Trotzdem aktivieren und diese Nachricht nicht mehr anzeigen."
 
 #: lutris/util/wine/wine.py:359
 msgid "Vulkan is not installed or is not supported by your system"
