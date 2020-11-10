@@ -3874,7 +3874,7 @@ msgstr "Nachgelagertes Skript"
 
 #: lutris/sysoptions.py:414
 msgid "Script to execute when the game exits"
-msgstr "Auszuführendes Skript nach dem das Spiel beendet"
+msgstr "Auszuführendes Skript nachdem das Spiel beendet"
 
 #: lutris/sysoptions.py:422
 msgid "Include processes"
