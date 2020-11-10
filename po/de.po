@@ -3878,7 +3878,7 @@ msgstr ""
 
 #: lutris/sysoptions.py:422
 msgid "Include processes"
-msgstr ""
+msgstr "Prozesse inkludieren"
 
 #: lutris/sysoptions.py:425
 msgid ""
@@ -3890,7 +3890,7 @@ msgstr ""
 
 #: lutris/sysoptions.py:436
 msgid "Exclude processes"
-msgstr ""
+msgstr "Prozesse exkludieren"
 
 #: lutris/sysoptions.py:439
 msgid ""
@@ -3942,19 +3942,19 @@ msgstr ""
 
 #: lutris/sysoptions.py:493
 msgid "Xephyr resolution"
-msgstr ""
+msgstr "Xephyr Auflösung"
 
 #: lutris/sysoptions.py:495
 msgid "Screen resolution of the Xephyr server"
-msgstr ""
+msgstr "Bildschirmauflösung des Xephyr Servers"
 
 #: lutris/sysoptions.py:500
 msgid "Xephyr Fullscreen"
-msgstr ""
+msgstr "Xephyr in Vollbild"
 
 #: lutris/sysoptions.py:503
 msgid "Open Xephyr in fullscreen (at the desktop resolution)"
-msgstr ""
+msgstr "Xephyr im Vollbild (momentane Bildschirmauflösung) öffnen"
 
 #: lutris/sysoptions.py:511
 msgid "Discord Rich Presence"
@@ -3966,31 +3966,31 @@ msgstr ""
 
 #: lutris/sysoptions.py:519
 msgid "Discord Show Runner"
-msgstr ""
+msgstr "Ausführungseinheit in Discord anzeigen"
 
 #: lutris/sysoptions.py:522
 msgid "Embed the runner name in the Discord status"
-msgstr ""
+msgstr "Namen der Ausführungseinheit in den Discord Status einbetten."
 
 #: lutris/sysoptions.py:527
 msgid "Discord Custom Game Name"
-msgstr ""
+msgstr "Benutzerdefinierter Spielename für Discord"
 
 #: lutris/sysoptions.py:529
 msgid "Custom name to override with and pass to Discord"
-msgstr ""
+msgstr "Benutzerdefinierter Name zum Überschreiben und an Discord weiterzureichen"
 
 #: lutris/sysoptions.py:534
 msgid "Discord Custom Runner Name"
-msgstr ""
+msgstr "Benutzerdefinier Name der Ausführungseinheit für Discord"
 
 #: lutris/sysoptions.py:536
 msgid "Custom runner name to override with and pass to Discord"
-msgstr ""
+msgstr "Benutzerdefinierter Name der Ausführungseinheit zum Überschreiben und an Discord weiterzureichen"
 
 #: lutris/sysoptions.py:541
 msgid "Discord Client ID"
-msgstr ""
+msgstr "Discord Benutzeridentifikation"
 
 #: lutris/sysoptions.py:543
 msgid "Custom Discord Client ID for passing status"
@@ -4008,7 +4008,7 @@ msgstr "Trotzdem aktivieren und diese Nachricht nicht mehr anzeigen."
 
 #: lutris/util/wine/wine.py:359
 msgid "Vulkan is not installed or is not supported by your system"
-msgstr ""
+msgstr "Vulkan ist entweder nicht installiert oder wird von ihrem System nicht unterstützt."
 
 #: lutris/util/wine/wine.py:361
 msgid ""
