@@ -3810,15 +3810,15 @@ msgstr ""
 
 #: lutris/sysoptions.py:349
 msgid "Run in a terminal"
-msgstr ""
+msgstr "In der Konsole ausführen"
 
 #: lutris/sysoptions.py:353
 msgid "Run the game in a new terminal window."
-msgstr ""
+msgstr "Das Spiel in einem neuen Konsolenfenster ausführen."
 
 #: lutris/sysoptions.py:359
 msgid "Terminal application"
-msgstr ""
+msgstr "Konsolenapplikation"
 
 #: lutris/sysoptions.py:368
 msgid ""
@@ -3829,15 +3829,15 @@ msgstr ""
 
 #: lutris/sysoptions.py:376
 msgid "Environment variables"
-msgstr ""
+msgstr "Umgebungsvariablen"
 
 #: lutris/sysoptions.py:377
 msgid "Environment variables loaded at run time"
-msgstr ""
+msgstr "Umgebungsvariablen zur Laufzeit laden"
 
 #: lutris/sysoptions.py:382
 msgid "Command prefix"
-msgstr ""
+msgstr "Kommando Präfix"
 
 #: lutris/sysoptions.py:384
 msgid ""
@@ -3846,7 +3846,7 @@ msgstr ""
 
 #: lutris/sysoptions.py:390
 msgid "Manual script"
-msgstr ""
+msgstr "Eigenes Skript"
 
 #: lutris/sysoptions.py:392
 msgid "Script to execute from the game's contextual menu"
@@ -3854,27 +3854,27 @@ msgstr ""
 
 #: lutris/sysoptions.py:397
 msgid "Pre-launch script"
-msgstr ""
+msgstr "Vorgelagertes Skript"
 
 #: lutris/sysoptions.py:399
 msgid "Script to execute before the game starts"
-msgstr ""
+msgstr "Auszuführendes Skript bevor das Spiel gestartet wird"
 
 #: lutris/sysoptions.py:404
 msgid "Wait for pre-launch script completion"
-msgstr ""
+msgstr "Warten bis vorgelagertes Skript beendet wird"
 
 #: lutris/sysoptions.py:407
 msgid "Run the game only once the pre-launch script has exited"
-msgstr ""
+msgstr "Das Spiel nur dann ausführen, wenn das vorgelagerte Script beendet wird"
 
 #: lutris/sysoptions.py:412
 msgid "Post-exit script"
-msgstr ""
+msgstr "Nachgelagertes Skript"
 
 #: lutris/sysoptions.py:414
 msgid "Script to execute when the game exits"
-msgstr ""
+msgstr "Auszuführendes Skript nach dem das Spiel beendet"
 
 #: lutris/sysoptions.py:422
 msgid "Include processes"
@@ -3922,23 +3922,23 @@ msgstr ""
 
 #: lutris/sysoptions.py:474
 msgid "Use Xephyr"
-msgstr ""
+msgstr "Xephyr benutzen"
 
 #: lutris/sysoptions.py:479
 msgid "8BPP (256 colors)"
-msgstr ""
+msgstr "8bpp (256 Farben)"
 
 #: lutris/sysoptions.py:480
 msgid "16BPP (65536 colors)"
-msgstr ""
+msgstr "16bpp (~65K Farben)"
 
 #: lutris/sysoptions.py:481
 msgid "24BPP (16M colors)"
-msgstr ""
+msgstr "24bpp (~16M Farben)"
 
 #: lutris/sysoptions.py:488
 msgid "Run program in Xephyr to support 8BPP and 16BPP color modes"
-msgstr ""
+msgstr "Programm in Xephyr ausführen, um 8bit und 16bit Farbmodi zu unterstützen"
 
 #: lutris/sysoptions.py:493
 msgid "Xephyr resolution"
@@ -3958,7 +3958,7 @@ msgstr "Xephyr im Vollbild (momentane Bildschirmauflösung) öffnen"
 
 #: lutris/sysoptions.py:511
 msgid "Discord Rich Presence"
-msgstr ""
+msgstr "Discord Rich Presence System"
 
 #: lutris/sysoptions.py:514
 msgid "Enable status to Discord of this game being played"
