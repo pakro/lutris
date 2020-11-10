@@ -3565,32 +3565,32 @@ msgstr ""
 
 #: lutris/startup.py:125
 msgid " and "
-msgstr ""
+msgstr " und "
 
 #: lutris/sysoptions.py:32
 msgid "Keep current"
-msgstr ""
+msgstr "Aktuelles behalten"
 
 #: lutris/sysoptions.py:40 lutris/sysoptions.py:49 lutris/sysoptions.py:60
 #: lutris/sysoptions.py:478
 msgid "Off"
-msgstr ""
+msgstr "Aus"
 
 #: lutris/sysoptions.py:41
 msgid "Primary"
-msgstr ""
+msgstr "Primär"
 
 #: lutris/sysoptions.py:89
 msgid "Default installation folder"
-msgstr ""
+msgstr "Standardinstallationsverzeichnis"
 
 #: lutris/sysoptions.py:92
 msgid "The default folder where you install your games."
-msgstr ""
+msgstr "Der Standardordner in dem Spiele installiert werden."
 
 #: lutris/sysoptions.py:100
 msgid "Disable Lutris Runtime"
-msgstr ""
+msgstr "Lutris Laufzeitumgebung deaktivieren"
 
 #: lutris/sysoptions.py:103
 msgid ""
@@ -3600,7 +3600,7 @@ msgstr ""
 
 #: lutris/sysoptions.py:110
 msgid "Prefer system libraries"
-msgstr ""
+msgstr "Systembibliotheken bevorzugen"
 
 #: lutris/sysoptions.py:112
 msgid ""
@@ -3731,7 +3731,7 @@ msgstr ""
 
 #: lutris/sysoptions.py:248
 msgid "Fps limit"
-msgstr ""
+msgstr "FPS Begrenzung"
 
 #: lutris/sysoptions.py:251
 msgid "Limit the game's fps to desired number"
@@ -3770,7 +3770,7 @@ msgstr ""
 
 #: lutris/sysoptions.py:296
 msgid "Use discrete graphics"
-msgstr ""
+msgstr "Diskrete Grafikkarte benutzen"
 
 #: lutris/sysoptions.py:299
 msgid ""
@@ -3781,17 +3781,19 @@ msgstr ""
 
 #: lutris/sysoptions.py:310
 msgid "SDL 1.2 Fullscreen Monitor"
-msgstr ""
+msgstr "SDL 1.2 Vollbildschirm Monitor"
 
 #: lutris/sysoptions.py:317
 msgid ""
 "Hint SDL 1.2 games to use a specific monitor when going fullscreen by "
 "setting the SDL_VIDEO_FULLSCREEN environment variable"
 msgstr ""
+"Hinweis: Spiele, die SDL 1.2 nutzen, benutzen einen spezifischen Monitor im Modus Vollbildschirm in dem \n"
+"die Umgebungsvariable SDL_VIDEO_FULLSCREEN gesetzt wird."
 
 #: lutris/sysoptions.py:327
 msgid "Turn off monitors except"
-msgstr ""
+msgstr "Bildschirme ausschalten, außer"
 
 #: lutris/sysoptions.py:334
 msgid ""
@@ -3799,14 +3801,17 @@ msgid ""
 "This is useful if you have a dual-screen setup, and are \n"
 "having display issues when running a game in fullscreen."
 msgstr ""
+"Nur den ausgewählten Bildschirm aktivieren solange das Spiel läuft. \n"
+"Das ist sinnvoll, wenn man beispielsweise bei zwei Bildschirmen \n"
+"Probleme hat das Spiel im Vollbildschirm auszuführen."
 
 #: lutris/sysoptions.py:342
 msgid "Switch resolution to"
-msgstr ""
+msgstr "Bildschirmauflösung wechseln zu"
 
 #: lutris/sysoptions.py:345
 msgid "Switch to this screen resolution while the game is running."
-msgstr ""
+msgstr "Zu dieser Bildschirmauflösung wechseln solange das Spiel läuft."
 
 #: lutris/sysoptions.py:349
 msgid "Run in a terminal"
@@ -3850,7 +3855,7 @@ msgstr "Eigenes Skript"
 
 #: lutris/sysoptions.py:392
 msgid "Script to execute from the game's contextual menu"
-msgstr ""
+msgstr "Skript, das aus dem Kontextmenüs des Spiels ausgeführt wird
 
 #: lutris/sysoptions.py:397
 msgid "Pre-launch script"
@@ -3887,6 +3892,8 @@ msgid ""
 "Space-separated list, processes including spaces can be wrapped in quotation "
 "marks."
 msgstr ""
+"Welche Prozesse überwacht werden sollen. Dies dient zum Überschreiben der eingebauten Exklusionsliste. \n"
+"Eine Liste deren Elemente durch Leerzeichen getrennt sind. Prozessnamen mit Leerzeichen müssen zwischen Anführungszeichen stehen."
 
 #: lutris/sysoptions.py:436
 msgid "Exclude processes"
@@ -3899,10 +3906,13 @@ msgid ""
 "Space-separated list, processes including spaces can be wrapped in quotation "
 "marks."
 msgstr ""
+"Welche Prozesse nicht überwacht werden sollen. Beispielsweise sind hier \n
+"Hintergrundprozesse gemeint, die erhalten bleiben sollen, wenn das Spiel beendet wurde. \n"
+"Eine Liste deren Elemente durch Leerzeichen getrennt sind. Prozessnamen mit Leerzeichen müssen zwischen Anführungszeichen stehen."
 
 #: lutris/sysoptions.py:451
 msgid "Killswitch file"
-msgstr ""
+msgstr "Notschalter Datei"
 
 #: lutris/sysoptions.py:454
 msgid ""
