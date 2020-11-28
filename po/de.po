@@ -3535,11 +3535,11 @@ msgstr ""
 
 #: lutris/settings.py:13
 msgid "The Lutris team"
-msgstr ""
+msgstr "Das Team von Lutris"
 
 #: lutris/startup.py:90
 msgid "Your Nvidia driver is outdated."
-msgstr ""
+msgstr "Ihr Nvidia Grafikkarten Treiber ist veraltet."
 
 #: lutris/startup.py:91
 #, python-format
@@ -3552,7 +3552,7 @@ msgstr ""
 
 #: lutris/startup.py:119
 msgid "Missing vulkan libraries"
-msgstr ""
+msgstr "Die Vulkan Bibliotheken fehlen"
 
 #: lutris/startup.py:120
 #, python-format
