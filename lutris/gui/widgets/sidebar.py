@@ -8,9 +8,9 @@ from lutris.database import categories as categories_db
 from lutris.database import games as games_db
 from lutris.game import Game
 from lutris.gui.config.runner import RunnerConfigDialog
+from lutris.gui.dialogs import ErrorDialog
 from lutris.gui.dialogs.runner_install import RunnerInstallDialog
 from lutris.gui.dialogs.runners import RunnersDialog
-from lutris.gui.dialogs import ErrorDialog
 from lutris.services.base import BaseService
 from lutris.util.jobs import AsyncCall
 
@@ -224,6 +224,7 @@ class SidebarHeader(Gtk.Box):
             manage_runners_button.props.relief = Gtk.ReliefStyle.NONE
             manage_runners_button.set_margin_right(16)
             manage_runners_button.get_style_context().add_class("sidebar-button")
+            manage_runners_button.set_tooltip_text(_('Manage Runners'))
             box.add(manage_runners_button)
         self.add(Gtk.Separator())
         self.show_all()
