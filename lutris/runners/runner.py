@@ -340,6 +340,7 @@ class Runner:  # pylint: disable=too-many-public-methods
                 version, arch = version.rsplit("-", 1)
             versions = [v for v in versions if v["version"] == version]
         versions_for_arch = [v for v in versions if v["architecture"] == arch]
+
         if len(versions_for_arch) == 1:
             return versions_for_arch[0]
 
@@ -353,9 +354,9 @@ class Runner:  # pylint: disable=too-many-public-methods
             default_version = [v for v in versions if v["default"] is True]
             if default_version:
                 return default_version[0]
-        # If we didn't find a proper version yet, return the first available.
+        # If we didn't find a proper version yet, return None as no matching architecture was found
         if len(versions_for_arch) >= 1:
-            return versions_for_arch[0]
+            return {}
 
     def install(self, version=None, downloader=None, callback=None):
         """Install runner using package management systems."""
